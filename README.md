@@ -8,5 +8,8 @@ Pandas
 Matplotlib
 Seaborn
 API calls
+Support Vector Machines
 Random Forest
 Regression
+## Note
+Note that these slides and colab materials were contributed for DataGood @ Berkeley, a Berkeley nonprofit organization using data science skills on social good projects. Please don't spread around with no permission.
